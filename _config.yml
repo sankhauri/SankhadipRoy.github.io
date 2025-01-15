@@ -1,17 +1,18 @@
 
-title:  # Sankhadip Roy
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Sankhadip Roy # 
+logo:  "/images/untitled%20(1).jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist and Educator with over a decade of experience, currently a Teaching Faculty in Mathematics and Statistics at the University of Massachusetts, Boston. 
   <br><br>
-  Second description 
+  Experienced in diverse data science projects, such as Time Series Forecasting, predictive modeling for insurance claims, and network analysis for social media data. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Skilled in Python, R, and SQL, and proficient with algorithms including Linear and Logistic Regression, Random Forest, XGBOOST, Neural Networks, and time series modeling. Recognized for strong collaboration and teaching excellence in both academic and applied research settings.
+  <br><br>
+  <a href="https://www.linkedin.com/in/sankhadip-roy-93758631/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-title: My Website
-description: A brief description of my website
-theme: jekyll-theme-cayman
+
+
+#theme: jekyll-theme-cayman
